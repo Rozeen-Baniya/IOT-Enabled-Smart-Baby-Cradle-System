@@ -132,8 +132,8 @@ It responds automatically by:
 SmartBabyCradle/
 ├── images/
 ├── README.md
+├── arduino_code/
 ├── report.pdf/
-├── ArduinoCode/
 ```
 
 ---
