@@ -148,7 +148,7 @@ SmartBabyCradle/
 ## 🔗 Links
 
 - 📁 [GitHub Repo](https://github.com/Rozeen-Baniya/IOT-Enabled-Smart-Baby-Cradle-System)
-- 📄 [PDF Report](docs/report.pdf)
+- 📄 [PDF Report](report.pdf)
 - 🧪 [TinkerCad Simulation](https://www.tinkercad.com/things/2Z4hPlJzU3A-smart-baby-cradle-monitor-system)
 - 👨‍💻 [Developer](mailto:rojin.baniya@mail.bcu.ac.uk)
 
