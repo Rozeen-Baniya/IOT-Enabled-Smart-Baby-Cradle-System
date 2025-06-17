@@ -88,7 +88,7 @@ It responds automatically by:
 ![Logic Diagram](images/boolean-logic.png)
 
 ### 🧪 TinkerCad Simulation
-![TinkerCad Circuit](images/tinkercad-circuit.png)
+![TinkerCad Circuit](images/simulation.png)
 
 ### 🔌 Schematic Diagram
 ![Schematic](images/schematic.png)
