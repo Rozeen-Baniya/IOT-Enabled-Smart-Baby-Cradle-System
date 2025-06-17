@@ -84,9 +84,6 @@ It responds automatically by:
 ### 🧩 Flowchart
 ![Flowchart](images/flowchart.png)
 
-### ⚙️ Boolean Logic
-![Logic Diagram](images/boolean-logic.png)
-
 ### 🧪 TinkerCad Simulation
 ![TinkerCad Circuit](images/simulation.png)
 
