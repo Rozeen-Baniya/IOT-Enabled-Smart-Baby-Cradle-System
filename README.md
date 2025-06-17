@@ -63,7 +63,7 @@ It responds automatically by:
 | LCD 16x2 (I2C)    | 1        | Displays system status |
 | Buzzer, LED       | 1 each   | Alerts and indicators |
 | Potentiometer     | 1        | LCD contrast tuning |
-| Breadboard, Resistors, Wires | - | Circuit integration |
+| Breadboard        | 0        | Circuit integration |
 
 ---
 
@@ -122,7 +122,7 @@ It responds automatically by:
 | 1         | Gas Detected              | ![Gas](images/gassim.PNG) |
 | 2         | High Temperature          | ![Temp](images/tempsim.PNG) |
 | 3         | Diaper Moisture Detected  | ![Moisture](images/soilsim.PNG) |
-| 4         | Baby Movement Detected    | ![Motion](images/servosim.PNG.png) |
+| 4         | Baby Movement Detected    | ![Motion](images/servosim.PNG) |
 
 ---
 
@@ -130,12 +130,10 @@ It responds automatically by:
 
 ```
 SmartBabyCradle/
-├── ArduinoCode/
 ├── images/
-├── simulation/
-├── circuit.fzz
 ├── README.md
-└── docs/
+├── report.pdf/
+├── ArduinoCode/
 ```
 
 ---
