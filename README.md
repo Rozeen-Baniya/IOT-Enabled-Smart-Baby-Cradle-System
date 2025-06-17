@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/logo.PNG" alt="Institutional Logo" height="100"/>
+  <img src="images/logo.png" alt="Institutional Logo" height="100"/>
 </p>
 
 # 👶 IoT-Enabled Smart Baby Cradle System
@@ -91,7 +91,7 @@ It responds automatically by:
 ![TinkerCad Circuit](images/tinkercad-circuit.png)
 
 ### 🔌 Schematic Diagram
-![Schematic](images/schematic-diagram.png)
+![Schematic](images/schematic.png)
 
 ---
 
@@ -115,21 +115,14 @@ It responds automatically by:
 
 ---
 
-## 📲 Mobile App (Planned)
-
-![Mobile App](images/app-ui.png)
-*App will display sensor data and alerts in real-time*
-
----
-
 ## 🧪 Simulation Snapshots
 
 | Simulation | Trigger Condition        | Image |
 |-----------|--------------------------|--------|
-| 1         | Gas Detected              | ![Gas](images/sim-gas.png) |
-| 2         | High Temperature          | ![Temp](images/sim-temp.png) |
-| 3         | Diaper Moisture Detected  | ![Moisture](images/sim-moisture.png) |
-| 4         | Baby Movement Detected    | ![Motion](images/sim-motion.png) |
+| 1         | Gas Detected              | ![Gas](images/gassim.PNG) |
+| 2         | High Temperature          | ![Temp](images/tempsim.PNG) |
+| 3         | Diaper Moisture Detected  | ![Moisture](images/soilsim.PNG) |
+| 4         | Baby Movement Detected    | ![Motion](images/servosim.PNG.png) |
 
 ---
 
@@ -161,7 +154,7 @@ SmartBabyCradle/
 
 - 📁 [GitHub Repo](https://github.com/Rozeen-Baniya/IOT-Enabled-Smart-Baby-Cradle-System)
 - 📄 [PDF Report](docs/smart-baby-cradle-report.pdf)
-- 🧪 [TinkerCad Simulation](#)
+- 🧪 [TinkerCad Simulation](https://www.tinkercad.com/things/2Z4hPlJzU3A-smart-baby-cradle-monitor-system)
 - 👨‍💻 [Developer](mailto:rojin.baniya@mail.bcu.ac.uk)
 
 ---
